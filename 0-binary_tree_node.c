@@ -4,7 +4,7 @@
  * binary_tree_node - tree
  * @parent: peee
  * @value: hfkf
- * @return: hfkfdjhk
+ * @Return: hfkfdjhk
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
